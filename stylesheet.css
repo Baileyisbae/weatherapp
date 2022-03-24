@@ -1,0 +1,9 @@
+.weather-emoji {
+    font-size: 30px;
+}
+
+#unitMode {
+    position: relative;
+    top: 5px;
+    right: 5px;
+}
